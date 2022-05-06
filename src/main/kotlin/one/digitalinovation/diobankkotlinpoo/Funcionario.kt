@@ -1,7 +1,5 @@
 package one.digitalinovation.diobankkotlinpoo
 
-import java.math.BigDecimal
-
 abstract class Funcionario(
     nome: String,
     cpf: String,

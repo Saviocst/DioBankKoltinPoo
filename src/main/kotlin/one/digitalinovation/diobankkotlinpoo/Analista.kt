@@ -1,7 +1,5 @@
 package one.digitalinovation.diobankkotlinpoo
 
-import java.math.BigDecimal
-
 class Analista(
     nome: String,
     cpf: String,
